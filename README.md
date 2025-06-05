@@ -1,7 +1,6 @@
 # Exno.6-Prompt-Engg
 
-### NAME : NAVEEN S
-### REG NO : 212222110030
+
 
 
 # Aim: 
